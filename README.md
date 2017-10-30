@@ -27,7 +27,7 @@
 ![](./assets/instagram1.jpg)
 
 + 整體
-  + 字體大小 為 `14px` ，字行 為 `"Roboto Mono", monospace`
+  + 字體大小 為 `14px` ，字型 為 `"Roboto Mono", monospace`
   + 寬度為 `40em`
   + 具有 `1px` 的 `#bbb` 的框線
 + 帳號
