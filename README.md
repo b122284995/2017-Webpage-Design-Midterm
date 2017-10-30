@@ -14,6 +14,7 @@
 ## Question 2 `20%`
 
 ![](./assets/nav.jpg)
+
 將 `#menu` 格式化與圖片相符  
 **修改 html 是不被允許的**
 
