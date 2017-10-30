@@ -13,7 +13,7 @@
 
 ## Question 2 `20%`
 
-![](./nav.jpg)
+![](./assets/nav.jpg)
 將 `#menu` 格式化與圖片相符  
 **修改 html 是不被允許的**
 
@@ -23,7 +23,7 @@
 
 ## Question 3 `40%`
 
-![](./instagram1.jpg)
+![](./assets/instagram1.jpg)
 
 + 整體
   + 字體大小 為 `14px` ，字行 為 `"Roboto Mono", monospace`
@@ -57,7 +57,7 @@
   + 年份
     + 字體大小 為 `0.9em` ，內容為 `1880 年`
   + 留言
-    + ![](./instagram2.jpg)
+    + ![](./assets/instagram2.jpg)
     + 寬度 為 `1px`，`#bbb` 的上框線，下面距離 `0.8em`
     + 輸入框
       + 寬度 `填滿剩餘空間`
@@ -67,15 +67,15 @@
 
 ## Question 4 `30%`
 
-![](./hover.jpg)
+![](./assets/hover.jpg)
 
 當滑鼠移置 Hover Me  
 右邊會顯示 `Hello!` 的氣泡框 (popover)
 
 ## Question 5 `30`
 
-![](./modul1.png)
-![](./modul2.png)
+![](./assets/modul1.png)
+![](./assets/modul2.png)
 
 點擊 `Click Me`  
 會啟動一個對話框  
@@ -85,7 +85,7 @@
 
 ## Question 6 `30%`
 
-![](./loader.gif)
+![](./assets/loader.gif)
 
 深藍 為 `#5bbce4`  
 淺藍 為 `#b3e0f2`  
