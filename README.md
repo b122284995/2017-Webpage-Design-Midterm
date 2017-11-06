@@ -76,8 +76,7 @@
 
 ## Question 5 `30`
 
-![](./assets/modul1.png)
-![](./assets/modul2.png)
+![](./assets/modul.gif)
 
 點擊 `Click Me`  
 會啟動一個對話框  
